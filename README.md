@@ -15,7 +15,7 @@ I set the correct bucket policy to allow public access, then created a CloudFron
 Finally, I verified that the website loads correctly via CloudFront, the S3 website endpoint, and the direct S3 object URL.
 
 Customization:
-- Changed website title to “Kavya’s Travel Blog”
+- Changed website title to “Bejawada Kavya’s Travel Blog”
 
 
 Notes:
